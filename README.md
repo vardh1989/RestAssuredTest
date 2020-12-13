@@ -9,6 +9,8 @@ Node JS 10+
 IDE : Intellij , Eclipse etc
 
 ===================================================
+
+
 2) Clone the project in the Local System
 
 git clone https://github.com/vardh1989/RestAssuredTest.git
@@ -16,6 +18,8 @@ git clone https://github.com/vardh1989/RestAssuredTest.git
 cd RestAssuredTest
 
 ====================================================
+
+
 3) Running the Test Suite 
 
 One can open terminal and navigate to project folder Ex : "/Users/123/245/RestAssuredTest"
@@ -27,6 +31,7 @@ Run the testng.xml file from project folder.
 Note: If you try to run individual tests as testng test, you will get NPE as the listeners are configured in testng.xml only.
 
 ======================================================
+
 
 4) Execution Settings and Reports 
 
